@@ -1,6 +1,6 @@
 cask "jompter" do
-  version "0.2.3"
-  sha256 "e7fd31be756dce2e094dbe526c8fb68eba9c8394d1901740cf7ce0992f36fee3"
+  version "0.2.4"
+  sha256 "10598a2d0fa02f0b67ee7cf2355b3e3fff182e26be9a962068a8cfba58d86f5c"
 
   url "https://github.com/anshuopinion/jompter-releases/releases/download/v#{version}/Jompter_#{version}_aarch64.dmg"
   name "Jompter"
